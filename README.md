@@ -1,4 +1,4 @@
-## Tasks
+## Laptimer
 Laptimer
 ## What does it do
 It is a Laptimer
