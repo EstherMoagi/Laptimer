@@ -1,5 +1,5 @@
-## Prodigy InfoTech Internship Tasks
-Laptimer , one of the task i learned during my intership
+## Tasks
+Laptimer
 ## What does it do
 It is a Laptimer
 ## How does it work
