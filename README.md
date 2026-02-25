@@ -19,7 +19,7 @@ record lap times. The project focuses on DOM manipulation and user interaction.
 ##  Live Demo
 
 
-## 📂 Installation & Setup
+## Installation & Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/EstherMoagi/Laptimer.git
